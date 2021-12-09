@@ -2,7 +2,7 @@ import React from "react";
 
 function CreateTodoButton(props) {
     return (
-        <button>+</button>
+        <button>Añadir tarea</button>
     );
 }
 
